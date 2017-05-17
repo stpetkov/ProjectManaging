@@ -1,0 +1,65 @@
+D:\Унсс\8ми семестър\Проектиране изграждане на потребителски интерфейси\projects\projects\bin\Debug\projects.exe.config
+D:\Унсс\8ми семестър\Проектиране изграждане на потребителски интерфейси\projects\projects\bin\Debug\projects.exe
+D:\Унсс\8ми семестър\Проектиране изграждане на потребителски интерфейси\projects\projects\bin\Debug\projects.pdb
+D:\Унсс\8ми семестър\Проектиране изграждане на потребителски интерфейси\projects\projects\obj\Debug\projects.csprojResolveAssemblyReference.cache
+D:\Унсс\8ми семестър\Проектиране изграждане на потребителски интерфейси\projects\projects\obj\Debug\projects.Form1.resources
+D:\Унсс\8ми семестър\Проектиране изграждане на потребителски интерфейси\projects\projects\obj\Debug\projects.Properties.Resources.resources
+D:\Унсс\8ми семестър\Проектиране изграждане на потребителски интерфейси\projects\projects\obj\Debug\projects.csproj.GenerateResource.Cache
+D:\Унсс\8ми семестър\Проектиране изграждане на потребителски интерфейси\projects\projects\obj\Debug\projects.exe
+D:\Унсс\8ми семестър\Проектиране изграждане на потребителски интерфейси\projects\projects\obj\Debug\projects.pdb
+D:\Унсс\8ми семестър\Проектиране изграждане на потребителски интерфейси\projects\projects\obj\Debug\projects.NewProject.resources
+D:\Унсс\8ми семестър\Проектиране изграждане на потребителски интерфейси\projects\projects\obj\Debug\projects.NewExpertss.resources
+D:\Унсс\8ми семестър\Проектиране изграждане на потребителски интерфейси\projects\projects\obj\Debug\projects.SearchExpert.resources
+D:\Унсс\8ми семестър\Проектиране изграждане на потребителски интерфейси\projects\projects\obj\Debug\projects.SearchProjects.resources
+D:\Унсс\8ми семестър\Проектиране изграждане на потребителски интерфейси\projects\projects\obj\Debug\projects.Taskss.resources
+C:\Users\Stanimir\Desktop\projects\projects\bin\Debug\projects.exe.config
+C:\Users\Stanimir\Desktop\projects\projects\obj\Debug\projects.exe
+C:\Users\Stanimir\Desktop\projects\projects\obj\Debug\projects.pdb
+C:\Users\Stanimir\Desktop\projects\projects\bin\Debug\projects.exe
+C:\Users\Stanimir\Desktop\projects\projects\bin\Debug\projects.pdb
+C:\Users\Stanimir\Desktop\projects\projects\obj\Debug\projects.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\projects\projects\obj\Debug\projects.Form1.resources
+C:\Users\Stanimir\Desktop\projects\projects\obj\Debug\projects.NewExpertss.resources
+C:\Users\Stanimir\Desktop\projects\projects\obj\Debug\projects.NewProject.resources
+C:\Users\Stanimir\Desktop\projects\projects\obj\Debug\projects.Properties.Resources.resources
+C:\Users\Stanimir\Desktop\projects\projects\obj\Debug\projects.SearchExpert.resources
+C:\Users\Stanimir\Desktop\projects\projects\obj\Debug\projects.SearchProjects.resources
+C:\Users\Stanimir\Desktop\projects\projects\obj\Debug\projects.Taskss.resources
+C:\Users\Stanimir\Desktop\projects\projects\obj\Debug\projects.csproj.GenerateResource.Cache
+C:\Users\Stanimir\Desktop\projects\projects\obj\Debug\projects.Login.resources
+D:\Унсс\8ми семестър\Проектиране изграждане на потребителски интерфейси\Нова папка (2)\projects\projects\projects\bin\Debug\projects.exe.config
+D:\Унсс\8ми семестър\Проектиране изграждане на потребителски интерфейси\Нова папка (2)\projects\projects\projects\obj\Debug\projects.exe
+D:\Унсс\8ми семестър\Проектиране изграждане на потребителски интерфейси\Нова папка (2)\projects\projects\projects\obj\Debug\projects.pdb
+D:\Унсс\8ми семестър\Проектиране изграждане на потребителски интерфейси\Нова папка (2)\projects\projects\projects\bin\Debug\projects.exe
+D:\Унсс\8ми семестър\Проектиране изграждане на потребителски интерфейси\Нова папка (2)\projects\projects\projects\bin\Debug\projects.pdb
+D:\Унсс\8ми семестър\Проектиране изграждане на потребителски интерфейси\Нова папка (2)\projects\projects\projects\obj\Debug\projects.csprojResolveAssemblyReference.cache
+D:\Унсс\8ми семестър\Проектиране изграждане на потребителски интерфейси\Нова папка (2)\projects\projects\projects\obj\Debug\projects.Form1.resources
+D:\Унсс\8ми семестър\Проектиране изграждане на потребителски интерфейси\Нова папка (2)\projects\projects\projects\obj\Debug\projects.Login.resources
+D:\Унсс\8ми семестър\Проектиране изграждане на потребителски интерфейси\Нова папка (2)\projects\projects\projects\obj\Debug\projects.NewExpertss.resources
+D:\Унсс\8ми семестър\Проектиране изграждане на потребителски интерфейси\Нова папка (2)\projects\projects\projects\obj\Debug\projects.NewProject.resources
+D:\Унсс\8ми семестър\Проектиране изграждане на потребителски интерфейси\Нова папка (2)\projects\projects\projects\obj\Debug\projects.Properties.Resources.resources
+D:\Унсс\8ми семестър\Проектиране изграждане на потребителски интерфейси\Нова папка (2)\projects\projects\projects\obj\Debug\projects.SearchExpert.resources
+D:\Унсс\8ми семестър\Проектиране изграждане на потребителски интерфейси\Нова папка (2)\projects\projects\projects\obj\Debug\projects.SearchProjects.resources
+D:\Унсс\8ми семестър\Проектиране изграждане на потребителски интерфейси\Нова папка (2)\projects\projects\projects\obj\Debug\projects.Taskss.resources
+D:\Унсс\8ми семестър\Проектиране изграждане на потребителски интерфейси\Нова папка (2)\projects\projects\projects\obj\Debug\projects.csproj.GenerateResource.Cache
+D:\Унсс\8ми семестър\Проектиране изграждане на потребителски интерфейси\Нова папка (2)\projects\projects\projects\obj\Debug\projects.Summary.resources
+C:\Users\stpet\Desktop\projects\projects\projects\bin\Debug\projects.exe.config
+C:\Users\stpet\Desktop\projects\projects\projects\bin\Debug\projects.exe
+C:\Users\stpet\Desktop\projects\projects\projects\bin\Debug\projects.pdb
+C:\Users\stpet\Desktop\projects\projects\projects\obj\Debug\projects.csprojResolveAssemblyReference.cache
+C:\Users\stpet\Desktop\projects\projects\projects\obj\Debug\projects.Form1.resources
+C:\Users\stpet\Desktop\projects\projects\projects\obj\Debug\projects.Login.resources
+C:\Users\stpet\Desktop\projects\projects\projects\obj\Debug\projects.NewExpertss.resources
+C:\Users\stpet\Desktop\projects\projects\projects\obj\Debug\projects.NewProject.resources
+C:\Users\stpet\Desktop\projects\projects\projects\obj\Debug\projects.Properties.Resources.resources
+C:\Users\stpet\Desktop\projects\projects\projects\obj\Debug\projects.SearchExpert.resources
+C:\Users\stpet\Desktop\projects\projects\projects\obj\Debug\projects.SearchProjects.resources
+C:\Users\stpet\Desktop\projects\projects\projects\obj\Debug\projects.Summary.resources
+C:\Users\stpet\Desktop\projects\projects\projects\obj\Debug\projects.Taskss.resources
+C:\Users\stpet\Desktop\projects\projects\projects\obj\Debug\projects.csproj.GenerateResource.Cache
+C:\Users\stpet\Desktop\projects\projects\projects\obj\Debug\projects.exe
+C:\Users\stpet\Desktop\projects\projects\projects\obj\Debug\projects.pdb
+C:\Users\stpet\Desktop\projects\projects\projects\bin\Debug\Microsoft.AnalysisServices.AppLocal.Core.dll
+C:\Users\stpet\Desktop\projects\projects\projects\bin\Debug\Microsoft.AnalysisServices.AppLocal.dll
+C:\Users\stpet\Desktop\projects\projects\projects\bin\Debug\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+C:\Users\stpet\Desktop\projects\projects\projects\bin\Debug\Newtonsoft.Json.dll
